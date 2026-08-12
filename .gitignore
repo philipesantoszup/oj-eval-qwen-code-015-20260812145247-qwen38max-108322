@@ -1,0 +1,10 @@
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+code
+*.o
+keys.bin
+data.bin
+tests/tmp/
